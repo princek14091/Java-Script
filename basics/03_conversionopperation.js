@@ -1,4 +1,4 @@
-let Score =true;
+let Score =true; // type off //
 
 console.log(typeof Score);
 
